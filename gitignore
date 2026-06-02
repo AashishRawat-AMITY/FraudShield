@@ -1,0 +1,19 @@
+# Compiled
+target/
+*.class
+
+# IntelliJ files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Secrets — NEVER push these
+application-dev.properties
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# OS files
+.DS_Store
+Thumbs.db
