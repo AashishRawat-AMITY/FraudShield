@@ -1,4 +1,4 @@
-# FraudShield 🛡️
+# FraudShield 
 
 Real-time fraud detection API that analyzes transactions in under 50ms before money moves.
 
